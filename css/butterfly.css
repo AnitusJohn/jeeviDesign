@@ -222,4 +222,15 @@
     height: 0;
     width: 0;
   }
-  
+.but_butter{
+    position: fixed;
+    z-index: 1;
+    top: 150px;
+    right: 30px;
+}  
+.bt_fly{
+    background: url('../images/flwr_butter.png') no-repeat;
+    background-position: right;
+    z-index: -1;
+    background-size: 100px;
+}

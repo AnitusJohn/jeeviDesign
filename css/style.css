@@ -614,3 +614,18 @@ h3 {
 	font-size: 10px;
 }
 }
+
+.btn_Read_more{
+    display: inline-block;
+    color: #036;
+    background: #fff;
+    border: 1px solid ;
+    font-weight: 700;
+    padding: 10px 30px ;
+    border-radius: 15px;
+}
+.btn_Read_more:hover{
+    color: #fff;
+	background: linear-gradient(to left, #036, #000);
+border: 1px solid#fff;
+}
