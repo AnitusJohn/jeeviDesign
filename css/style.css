@@ -500,6 +500,7 @@ input {
 	margin: 0px 10px 10px 0px;
 	text-align: center;
 }
+
 .download ul li a {
 	display: block;
 	color: #fff;
@@ -595,6 +596,7 @@ h3 {
 .slider .test-img img {
 	margin: 0 auto;
 }
+
 .test-img {
 	float:none;
 	width: 200px;
@@ -612,6 +614,7 @@ h3 {
 .faq-content {
 	margin: 10px 0px;
 }
+
 .faq-content h4 {
 	font-size: 16px;
 }
@@ -624,6 +627,7 @@ h3 {
 .contact-item {
 	font-size: 12px;
 }
+
 .download ul li a img {
 	width: 120px;
 }
@@ -703,7 +707,7 @@ h3 {
   .card_body p {
 	float: left;
 	width: 100%;
-	height: 100px;
+	height: 106px;
 	overflow: hidden;
   }
   .btn_visit_w {
